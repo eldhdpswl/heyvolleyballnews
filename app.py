@@ -18,10 +18,10 @@ def json():
 def send_news():
     # news_item = []
 
-    my_ip = '118.67.135.37'
-    username = 'likelion'
-    password = 'wearethefuture'
-    db_name = 'likelion'  # likelion
+    my_ip = '' # 개인정보 미공개
+    username = '' # 개인정보 미공개
+    password = '' # 개인정보 미공개
+    db_name = ''  ## 개인정보 미공개
     collection_name = 'navernews'  # navernews
 
     client = MongoClient(host=my_ip, port=27017,
