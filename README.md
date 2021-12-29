@@ -206,11 +206,7 @@
   - [x] DB에 저장하기 - MongoDB
   - [x] Naver Cloud Function 만들기
 - [x] Datetime 만들기 - Convert to UTC
-- [x] Sentiment 분석하기 - Naver Sentiment API
-  - [x] DB에 저장하기 - MongoDB
-  - [x] Naver Cloud Function 만들기
-- [x] 분석된 sentiment을 이용해서 당일 경제/주식 최종 동향 선별하기
-  - [x] 새로운 Collection으로 DB에 업데이트 하기 - MongoDB
+- [x] 요약된 summary 기사 음성파일로 변환 및 저장하기 - Naver Voice API
   - [x] Naver Cloud Function 만들기
 - [x] Flask, Nginx, WSGI를 이용한 트래픽 처리 및 Docker를 통한 운영환경 배포
 
