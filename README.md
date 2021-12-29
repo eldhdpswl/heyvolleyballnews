@@ -39,8 +39,8 @@
 - NaverCloudFunction 을 사용하여 서버의 DB 에 원격 접속하여 수집한 데이터를 저장한다.
   - [Naver Cloud Function ](https://www.ncloud.com/product/compute/cloudFunctions)
 
-![](flask/preview/mongodb.png)
-![](flask/preview/mongodb_data.png)
+![](flask/preview/main_mongodb.png)
+![](flask/preview/main_mongodb_data.png)
 
 
 ### 1. 뉴스 수집
@@ -234,7 +234,7 @@
 
 | Home                       | News                           |
 | -------------------------- | ------------------------------ |
-| <img src=flask/preview/home.png> | <img src=flask/preview/news.png> |
+| <img src=flask/preview/main_home.png> | <img src=flask/preview/main_news.png> |
 
 
 ### Home
